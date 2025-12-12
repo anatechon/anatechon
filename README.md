@@ -5,20 +5,29 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Ana! A Brazilian Software Engineering student.
+  Olá 👋, Eu Sou a Ana! Estudante Brasileira de Engenharia de Software.
 
-  - 🌱 I am currently studying/graduating in Software Engineering <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou cursando Engenharia de Software.
 
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work as a full-stack software engineer.
+  - 🔭 Em busca de uma oportunidade profissional. 
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👩‍💻 Mais sobre mim</summary>
 
-  - 💬 I'm 25 years old and live in Brazil. I have intermediate English and experience with Python, HTML, CSS, JavaScript, data analysis and visualization, as well as programming logic and some Ruby. I'm also a digital content creator, which has strengthened my communication, creativity, and audience engagement skills. I've worked as an ADS/Marketing manager and designer, focusing on results analysis, digital strategies, and social media management. I enjoy combining the technical side of software engineering with the creative side of communication, always striving to learn, innovate, and contribute to solutions that generate real impact.
+  - 💬 Tenho 25 anos e moro no Brasil. Possuo inglês intermediário e experiência com 
+  Python, HTML, CSS, JavaScript, análise e visualização de dados, além de lógica de 
+  programação e conhecimentos iniciais em C#. Também sou criadora de conteúdo digital, 
+  o que fortaleceu minhas habilidades de comunicação, criatividade e engajamento com o 
+  público. Já atuei como gestora de ADS/Marketing e designer, com foco em análise de 
+  resultados, estratégias digitais e gerenciamento de redes sociais. Gosto de unir o 
+  lado técnico da Engenharia de Software com o lado criativo da comunicação, buscando 
+  sempre aprender, inovar e contribuir com soluções que gerem impacto real.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comic book, as well as watching movies/series and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Gosto de ler, seja livros ou quadrinhos, além de assistir filmes e séries 
+  e jogar games! Acredito que nossos interesses pessoais contribuem para uma percepção 
+  mais refinada das coisas e para a resolução de problemas.
 </details>
 
 <!-- Links -->
@@ -26,28 +35,38 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagfeitosa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anatecch@email.com)
 
-
-
 | Top Langs | Stats |
 |----------|--------|
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anatechon&theme=tokyonight" height="200"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anatechon&theme=tokyonight" height="200"/> |
 
-
-
 <!-- Portfolio -->
-## Portfolio:
-- [Web Calculator](https://github.com/anatechon/Calculadora-1-)
-- [Astro-Match](https://github.com/anatechon/Astro-Match)
-- [Web Clock](https://github.com/anatechon/Relogio_Web)
-- [Page Login](https://github.com/anatechon/page-login3)
-- [To-Do List](https://github.com/anatechon/To-Do-List1)
+## 🌟 Projetos que representam minha evolução
 
+🔹 **Relógio Digital Interativo**  
+Projeto criado para treinar lógica, JavaScript e animações visuais.  
+🛠️ HTML • CSS • JavaScript  
+🔗 [Ver repositório](https://github.com/anatechon/Relogio_Web)
+
+🔹 **Page Login**  
+Projeto criado para treinar lógica, JavaScript e animações visuais.  
+🛠️ HTML • CSS • JavaScript   
+🔗 [Ver repositório](https://github.com/anatechon/page-login3).
+
+🔹 **Astro-Match**  
+Projeto criado para treinar lógica, JavaScript e animações visuais.  
+🛠️ HTML • CSS • JavaScript   
+🔗 [Ver repositório](https://github.com/anatechon/Astro-Match).
+
+🔹 **Web Calculator**  
+Projeto criado para treinar lógica, JavaScript e animações visuais.  
+🛠️ HTML • CSS • JavaScript   
+🔗 [Ver repositório](https://github.com/anatechon/Calculadora-1-).
+
+---
 <!-- GIF -->
 ![Descrição do GIF](https://github.com/anatechon/GifReadme/raw/main/gift.gif)
 
-
-
-
+---
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
