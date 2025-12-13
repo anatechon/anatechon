@@ -9,7 +9,7 @@
 
   - 🌱 Em constante aprendizado e evolução na área de desenvolvimento.
 
-  - 💻 Criando projetos para evoluir minhas habilidades em desenvolvimento. 
+  - 💻 Criando projetos para evoluir minhas habilidades.
 </p>
 
 <!-- Dropdown -->
