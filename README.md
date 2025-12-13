@@ -7,9 +7,9 @@
 <p>
   Olá 👋, Eu Sou a Ana! Estudante Brasileira de Engenharia de Software.
 
-  - 🌱 Atualmente estou cursando Engenharia de Software.
+  - 🌱 Em constante aprendizado e evolução na área de desenvolvimento.
 
-  - 🔭 Em busca de uma oportunidade profissional. 
+  - 💻 Criando projetos para evoluir minhas habilidades em desenvolvimento. 
 </p>
 
 <!-- Dropdown -->
