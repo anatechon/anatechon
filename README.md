@@ -20,12 +20,12 @@
   Python, HTML, CSS, JavaScript, análise e visualização de dados, além de lógica de 
   programação e conhecimentos iniciais em C#. Também sou criadora de conteúdo digital, 
   o que fortaleceu minhas habilidades de comunicação, criatividade e engajamento com o 
-  público. Já atuei como gestora de ADS/Marketing e designer, com foco em análise de 
+  público. Já atuei como gestora de ADS/Marketing, com foco em análise de 
   resultados, estratégias digitais e gerenciamento de redes sociais. Gosto de unir o 
   lado técnico da Engenharia de Software com o lado criativo da comunicação, buscando 
   sempre aprender, inovar e contribuir com soluções que gerem impacto real.
 
-  - ⚡ Gosto de ler, seja livros ou quadrinhos, além de assistir filmes e séries 
+  - ⚡ Gosto de desenhar e ler seja livros ou quadrinhos, além de assistir filmes e séries
   e jogar games! Acredito que nossos interesses pessoais contribuem para uma percepção 
   mais refinada das coisas e para a resolução de problemas.
 </details>
