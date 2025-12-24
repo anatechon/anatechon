@@ -17,7 +17,7 @@
   <summary>👩‍💻 Mais sobre mim</summary>
 
   - 💬 Tenho 25 anos e moro no Brasil. Possuo inglês intermediário e experiência com 
-  Python, HTML, CSS, JavaScript, análise e visualização de dados, design além de lógica de 
+  Python, HTML, CSS, JavaScript, análise e visualização de dados e design além de lógica de 
   programação e conhecimentos iniciais em C#. Também sou criadora de conteúdo digital, 
   o que fortaleceu minhas habilidades de comunicação, criatividade e engajamento com o 
   público. Já atuei como gestora de ADS/Marketing, com foco em análise de 
