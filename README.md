@@ -18,11 +18,10 @@
 
   - 💬 Tenho 25 anos e moro no Brasil. Possuo inglês intermediário e experiência com 
   Python, HTML, CSS, JavaScript, análise e visualização de dados e design além de lógica de 
-  programação e conhecimentos iniciais em C#. Também sou criadora de conteúdo digital, 
-  o que fortaleceu minhas habilidades de comunicação, criatividade e engajamento com o 
-  público. Já atuei como gestora de ADS/Marketing, com foco em análise de 
-  resultados, estratégias digitais e gerenciamento de redes sociais e designer. Gosto de unir o 
-  lado técnico da Engenharia de Software com o lado criativo da comunicação, buscando 
+  programação. Também sou criadora de conteúdo digital, o que fortaleceu minhas habilidades de
+  comunicação, criatividade e engajamento com o público. Já atuei como gestora de ADS/Marketing,
+  com foco em análise de resultados, estratégias digitais e gerenciamento de redes sociais e designer.
+  Gosto de unir o lado técnico da Engenharia de Software com o lado criativo da comunicação, buscando 
   sempre aprender, inovar e contribuir com soluções que gerem impacto real.
 
   - ⚡ Gosto de desenhar e ler seja livros ou quadrinhos, além de assistir filmes e séries
@@ -79,8 +78,6 @@ Projeto criado para treinar lógica, JavaScript e animações visuais.
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
 <!-- Skills: Tools & Frameworks -->
