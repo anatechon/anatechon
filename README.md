@@ -41,26 +41,6 @@
 <!-- Portfolio -->
 ## 🌟 Projetos que representam minha evolução
 
-🔹 **Relógio Digital Interativo**  
-Projeto criado para treinar lógica, JavaScript e animações visuais.  
-🛠️ HTML • CSS • JavaScript  
-🔗 [Ver repositório](https://github.com/anatechon/Relogio_Web)
-
-🔹 **Page Login**  
-Projeto criado para treinar lógica, JavaScript e animações visuais.  
-🛠️ HTML • CSS • JavaScript   
-🔗 [Ver repositório](https://github.com/anatechon/page-login3).
-
-🔹 **Astro-Match**  
-Projeto criado para treinar lógica, JavaScript e animações visuais.  
-🛠️ HTML • CSS • JavaScript   
-🔗 [Ver repositório](https://github.com/anatechon/Astro-Match).
-
-🔹 **Web Calculator**  
-Projeto criado para treinar lógica, JavaScript e animações visuais.  
-🛠️ HTML • CSS • JavaScript   
-🔗 [Ver repositório](https://github.com/anatechon/Calculadora-1-).
-
 ---
 <!-- GIF -->
 ![Descrição do GIF](https://github.com/anatechon/GifReadme/raw/main/gift.gif)
