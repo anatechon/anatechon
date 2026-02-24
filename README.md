@@ -1,6 +1,6 @@
 <!--título-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Hello+World!;Bem-Vinda(o)s+ao+meu+perfil!+👩🏻‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=9127F3&center=true&vCenter=true&width=435&lines=Hello+World!;Bem-Vinda(o)s+ao+meu+perfil!+👩🏻‍💻" alt="Typing SVG" />
 </p>
 
 <!-- Presentation -->
